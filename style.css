@@ -132,7 +132,7 @@ nav li a:hover {
 }
 
 .section3 h2 {
-    text-align: center;
+    text-align: left;
     padding: 10px;
 }
 
@@ -142,6 +142,7 @@ table {
 }
 
 table th {
+    text-align: left;
     background-color: var(--surface);
     padding: 10px;
     color: var(--on-surface);
@@ -151,7 +152,7 @@ table th {
 table td {
     border: 1px solid var(--on-surface);
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 footer p {
